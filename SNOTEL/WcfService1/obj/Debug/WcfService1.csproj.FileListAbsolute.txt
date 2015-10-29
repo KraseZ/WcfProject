@@ -1,0 +1,6 @@
+d:\User\documents\visual studio 2013\Projects\SNOTEL\WcfService1\bin\WcfService1.dll.config
+d:\User\documents\visual studio 2013\Projects\SNOTEL\WcfService1\bin\WcfService1.dll
+d:\User\documents\visual studio 2013\Projects\SNOTEL\WcfService1\bin\WcfService1.pdb
+d:\User\documents\visual studio 2013\Projects\SNOTEL\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+d:\User\documents\visual studio 2013\Projects\SNOTEL\WcfService1\obj\Debug\WcfService1.dll
+d:\User\documents\visual studio 2013\Projects\SNOTEL\WcfService1\obj\Debug\WcfService1.pdb

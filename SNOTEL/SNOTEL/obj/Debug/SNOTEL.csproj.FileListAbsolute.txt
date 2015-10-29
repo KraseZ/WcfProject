@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\SNOTEL\SNOTEL\bin\Debug\SNOTEL.exe.config
+d:\user\documents\visual studio 2013\Projects\SNOTEL\SNOTEL\bin\Debug\SNOTEL.exe
+d:\user\documents\visual studio 2013\Projects\SNOTEL\SNOTEL\bin\Debug\SNOTEL.pdb
+d:\user\documents\visual studio 2013\Projects\SNOTEL\SNOTEL\obj\Debug\SNOTEL.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\SNOTEL\SNOTEL\obj\Debug\SNOTEL.exe
+d:\user\documents\visual studio 2013\Projects\SNOTEL\SNOTEL\obj\Debug\SNOTEL.pdb
